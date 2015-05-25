@@ -39,7 +39,7 @@ Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data
 - Linux and Landmark’s Promax used daily
 - Liaised with and attended client meetings with senior processors
 
-#### Sept 2007 to March 2008 - Baker Hughes INTEQ
+#### September 2007 to March 2008 - Baker Hughes INTEQ
 
 Surface Logging Specialist - Produced detailed sedimentary logs for clients (Nexen&Hess) on a variety
 of North Sea oil rigs
