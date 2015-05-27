@@ -9,7 +9,7 @@ As a Geoscientist, who likes more of an emphasis on Geology than Geophysics, Qua
 
 For me New Ventures is all about excitement. It conjures up images of someone having a hunch, shooting seismic, finding a DHI, securing financing, drilling the prospect and finding the next big hydrocarbon province. For many, this is what motivated them into the industry and what drives them forward during their career. It is a part of the business I would like to be involved in.
 
-I hope you find my (CV)[#cv], experience and motivations interesting and I look forward to (hearing from you)[#contact].
+I hope you find my [CV](#cv), experience and motivations interesting and I look forward to [hearing from you](#contact).
 
 ## CV
 
