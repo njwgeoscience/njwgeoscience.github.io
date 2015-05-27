@@ -11,6 +11,8 @@ For me New Ventures is all about excitement. It conjures up images of someone ha
 
 I hope you find my [CV](#cv), experience and motivations interesting and I look forward to [hearing from you](#contact).
 
+*****
+
 ## CV
 
 ### Professional Experience
