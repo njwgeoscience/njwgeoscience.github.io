@@ -29,7 +29,9 @@ While searching for a new challenge, my key interest areas are being developed t
 
 #### February 2013 to January 2015 - Bowleven Oil and Gas Plc
 
-Geoscientist – Assisted with the 2D & 3D seismic interpretation and reservoir modelling of the company’s African asset portfolio (Etinde permit, offshore Cameroon and Bomono permit, onshore Cameroon) in both the exploration and development teams
+**Geoscientist **
+
+Assisted with the 2D & 3D seismic interpretation and reservoir modelling of the company’s African asset portfolio (Etinde permit, offshore Cameroon and Bomono permit, onshore Cameroon) in both the exploration and development teams
 
 - New Venture Screening - African assets including the Kyela & Rukwa blocks, Tanzania
 - Created and administered an interactive ArcGIS New Ventures database
@@ -39,22 +41,27 @@ Geoscientist – Assisted with the 2D & 3D seismic interpretation and reservoir 
 
 #### August 2010 to July 2011 - Spectrum ASA
 
-Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients (Shell and Statoil)
+**Marine Seismic Data Processor**
+
+Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients (Shell and Statoil)
 
 - Linux, GNS Globe Claritas, Renegade and Seisup 2007 software used
 - Attended an in house development course given by Dr Joe Pape, a retired BP Exploration Vice President who headed up the companies activities across the Nile delta. The course included a mock licensing round using Spectrum’s East Med Data 
 
 #### May 2008 to April 2009 - Fugro Seismic Imaging LTD
 
-Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients
+**Marine Seismic Data Processor**
+
+Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients
 
 - Linux and Landmark’s Promax software used
 - Liaised with and attended client meetings with senior processors
 
 #### September 2007 to March 2008 - Baker Hughes INTEQ
 
-Surface Logging Specialist - Produced detailed sedimentary logs for clients (Nexen and Hess) on a variety
-of North Sea oil rigs
+**Surface Logging Specialist**
+
+Produced detailed sedimentary logs for clients (Nexen and Hess) on a variety of North Sea oil rigs
 
 - Responsible for the collection and analysis of the rock & mud samples produced and the monitoring/maintenance of surface instruments
 
@@ -62,7 +69,9 @@ of North Sea oil rigs
 
 #### 2011 to 2012 - Royal Holloway, University College London
 
-MSc Petroleum Geoscience - Basin Evolution (Merit awarded)
+**MSc Petroleum Geoscience**
+
+Basin Evolution (Merit awarded)
 
 A fully integrated masters course covering all aspects of the technical petroleum industry including, Structural Analysis, Seismic Interpretation, Reservoir Geoscience, Sedimentology & Stratigraphy and Petroleum Systems
 
@@ -87,7 +96,7 @@ A fully integrated masters course covering all aspects of the technical petroleu
 
 #### 2004 to 2007 - Bristol University
 
-BSc (Hons) Geology
+**BSc (Hons) Geology**
 
 I particularly enjoyed the Structural Geology, Sedimentology and Palaeontology courses in my second year. In my third year, I chose more applied courses relevant to a career in the Petroleum or Geophysical industries including, Petroleum Sedimentology, Micro-Palaeontology, Geophysics and Engineering Geology
 
