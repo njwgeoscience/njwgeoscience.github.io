@@ -29,7 +29,7 @@ While searching for a new challenge, my key interest areas are being developed t
 
 #### February 2013 to January 2015 - Bowleven Oil and Gas Plc
 
-**Geoscientist **
+**Geoscientist**
 
 Assisted with the 2D & 3D seismic interpretation and reservoir modelling of the company’s African asset portfolio (Etinde permit, offshore Cameroon and Bomono permit, onshore Cameroon) in both the exploration and development teams
 
