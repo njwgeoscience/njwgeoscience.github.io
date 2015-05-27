@@ -1,6 +1,16 @@
 ---
 ---
 
+I’m currently looking for a new opportunity within the industry, which will allow me to progress my career onto the next stage. Ideally, I’m looking to work for a mid to major sized operator which works in a variety of geologic settings allowing me to gain broad worldwide basin exposure.
+
+As mentioned, my interests lie in Reservoir Modelling, Quantitative Interpretation and New Ventures.  Reservoir modeling appeals as it brings the Geology and Geophysics together to create the best representation of the subsurface the data can produce. Model building requires effective communicating, as input is required from all disciplines, Geology, Geophysics and Engineering. This adds to the interest, as one is exposed to the whole exploration, production lifecycle. Within the current climate, when exploration activity is slow, there will be more of a focus on enhancing the production of current fields, reservoir modelling plays a large part in that process by simulating different scenarios and tailoring recovery techniques to the specific geology. 
+
+As a Geoscientist, who likes more of an emphasis on Geology than Geophysics, Quantitative Interpretation initially seemed daunting, however, after further research and witnessing the results from various techniques on ‘real life’ data I had been working on, I feel this topic has a lot more to offer the industry in the coming years.
+
+For me New Ventures is all about excitement. It conjures up images of someone having a hunch, shooting seismic, finding a DHI, securing financing, drilling the prospect and finding the next big hydrocarbon province. For many, this is what motivated them into the industry and what drives them forward during their career. It is a part of the business I would like to be involved in.
+
+I hope you find my (CV)[#cv], experience and motivations interesting and I look forward to (hearing from you)[#contact].
+
 ## CV
 
 ### Professional Experience
@@ -27,7 +37,7 @@ Geoscientist – Assisted with the 2D & 3D seismic interpretation and reservoir 
 
 #### August 2010 to July 2011 - Spectrum ASA
 
-Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients (Shell&Statoil)
+Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients (Shell and Statoil)
 
 - Linux, GNS Globe Claritas, Renegade and Seisup 2007 software used
 - Attended an in house development course given by Dr Joe Pape, a retired BP Exploration Vice President who headed up the companies activities across the Nile delta. The course included a mock licensing round using Spectrum’s East Med Data 
@@ -36,12 +46,12 @@ Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data
 
 Marine Seismic Data Processor - Helped in processing 2D & 3D marine seismic data acquired from a variety of locations for a number of clients
 
-- Linux and Landmark’s Promax used daily
+- Linux and Landmark’s Promax software used
 - Liaised with and attended client meetings with senior processors
 
 #### September 2007 to March 2008 - Baker Hughes INTEQ
 
-Surface Logging Specialist - Produced detailed sedimentary logs for clients (Nexen&Hess) on a variety
+Surface Logging Specialist - Produced detailed sedimentary logs for clients (Nexen and Hess) on a variety
 of North Sea oil rigs
 
 - Responsible for the collection and analysis of the rock & mud samples produced and the monitoring/maintenance of surface instruments
@@ -98,13 +108,16 @@ I have travelled extensively with my family since an early age, especially to si
 
 #### Music
 
-I listen to a variety of genres of music including Classical, House, Trance and Chillout In High School I was also a member of a local orchestra where I played the Clarinet
+I listen to a variety of genres of music including Classical, House, Trance and Chillout.
+
+In High School I was also a member of a local orchestra where I played the Clarinet
 
 #### Sport
 
 I enjoy various sports including football, rugby, mountain biking, skiing, snowboarding, surfing, tennis and scuba diving (PADI qualified)
 
 #### Fitness
+
 I enjoy keeping fit and eating healthily, as I believe this is reflected in the quality of work one produces. I learnt this in school, where I was vice captain of the intramural sports teams and attained the Duke of Edinburgh bronze award
 
 ### Other
@@ -118,4 +131,4 @@ I enjoy keeping fit and eating healthily, as I believe this is reflected in the 
 
 ## Contact
 
-You can email me at [nick@njwgeoscience.com](mailto:nick@njwgeoscience.com), or using [LinkedIn](http://uk.linkedin.com/pub/nick-waters/25/a69/909).
+You can e-mail me at [nick@njwgeoscience.com](mailto:nick@njwgeoscience.com), or by using [LinkedIn](http://uk.linkedin.com/pub/nick-waters/25/a69/909).
