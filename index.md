@@ -69,9 +69,7 @@ Produced detailed sedimentary logs for clients (Nexen and Hess) on a variety of 
 
 #### 2011 to 2012 - Royal Holloway, University College London
 
-**MSc Petroleum Geoscience**
-
-Basin Evolution (Merit awarded)
+**MSc Petroleum Geoscience** Basin Evolution (Merit awarded)
 
 A fully integrated masters course covering all aspects of the technical petroleum industry including, Structural Analysis, Seismic Interpretation, Reservoir Geoscience, Sedimentology & Stratigraphy and Petroleum Systems
 
