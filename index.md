@@ -24,8 +24,10 @@ While searching for a new challenge, my key interest areas are being developed t
 - Integrated Reservoir Modelling: Evaluation, Interpretation and Optimization with Petrel (NExT Schlumberger training, Aberdeen - March 2015)
 - Sandstone Reservoirs - (Dr Bryan Cronin, Petroskills, London - April 2015)
 - Reservoir Geomechanics - (Stanford University online - April-June 2015)
-- Seismic Reflection Fundamentals - (William Ashcroft, PESGB training, London - May 2015)
-- Petroleum Basins of Sub Saharan Africa (Duncan Macgregor, PESGB training, London - September 2015)
+- Seismic Reflection Fundamentals - (William Ashcroft, PESGB training, London - May 2015) Review published in July PESGB         magazine
+- Petroleum Basins of Sub Saharan Africa (Duncan Macgregor, PESGB training, London - September 2015) in conjunction with the     PESGB Africa Conference, which was also attended
+- Petroleum Geology of NorthWest Europe Conference (London - September 2015)
+- An Overview of the Petroleum Geology of Myanmar (AAPG & PESGB Short Course, London - November 2015)
 
 #### February 2013 to January 2015 - Bowleven Oil and Gas Plc
 
