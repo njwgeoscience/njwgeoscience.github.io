@@ -28,6 +28,8 @@ While searching for a new challenge, my key interest areas are being developed t
 - Petroleum Basins of Sub Saharan Africa (Duncan Macgregor, PESGB training, London - September 2015) in conjunction with the     PESGB Africa Conference, which was also attended
 - Petroleum Geology of NorthWest Europe Conference (London - September 2015)
 - An Overview of the Petroleum Geology of Myanmar (AAPG & PESGB Short Course, London - November 2015)
+- Petroleum Exploration in Frontier Basins on the Atlantic Margin (PESGB Course, London - November 2015)
+- An Overview of the Greenland and Labrador Basins (AAPG & PESGB Short Course, London – January 2016)
 
 #### February 2013 to January 2015 - Bowleven Oil and Gas Plc
 
