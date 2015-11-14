@@ -7,7 +7,7 @@ As mentioned, my interests lie in reservoir modelling, quantitative interpretati
 
 As a Geoscientist, who likes more of an emphasis on geology than geophysics, quantitative interpretation initially seemed daunting, however, after further research and witnessing the results from various techniques on ‘real life’ data I had been working on, I feel this subject has a lot more to offer the industry in the coming years.
 
-For me, new ventures is all about excitement. It conjures up images of someone having a hunch, shooting seismic, finding a DHI, securing financing, drilling the prospect and finding the next big hydrocarbon province. For many, this is what motivated them into the industry and what drives the during their career. It is a part of the business I would like to be involved in one day.
+For me, new ventures is all about excitement. It conjures up images of someone having a hunch, shooting seismic, finding a DHI, securing financing, drilling the prospect and finding the next big hydrocarbon province. For many, this is what motivated them into the industry and what drives them during their career. It is a part of the business I would like to be involved in one day.
 
 I hope you find my [CV](#cv), experience and motivations interesting and I look forward to [hearing from you](#contact).
 
