@@ -17,19 +17,31 @@ I hope you find my [CV](#cv), experience and motivations interesting and I look 
 
 ### Professional Experience
 
+#### January 2016 to Present -  Imperial College London
+
+**Research Assistant**
+
+The Basins Research Group (BRG) at Imperial College London focuses on the geodynamic, structural, and stratigraphic evolution of sedimentary basins. My focus is on the Santos Basin investigating the geometry and growth of salt diapir-related normal faults and how shelf-edge clinoforms and MTC’s interact with salt related deformation
+
+#### December 2015 to Present - PetroVannin UK Ltd
+
+**Senior Exploration and Reservoir Consultant**
+
+PetroVannin are a small independent consultancy, formed in 2002, offering geological and geophysical services to the oil & gas exploration industry. We provide skilled and experienced geoscientists to oil companies and service companies to assist in their exploration efforts and work programmes
+
 #### January 2015 to Present - Professional Technical Development
 
 While searching for a new challenge, my key interest areas are being developed through background reading and attending training courses
 
-- Integrated Reservoir Modelling: Evaluation, Interpretation and Optimization with Petrel (NExT Schlumberger training, Aberdeen - March 2015)
+- Integrated Reservoir Modelling: Evaluation, Interpretation and Optimization with Petrel (NExT Schlumberger training, Aberdeen - March    2015)
 - Sandstone Reservoirs - (Dr Bryan Cronin, Petroskills, London - April 2015)
 - Reservoir Geomechanics - (Stanford University online - April-June 2015)
-- Seismic Reflection Fundamentals - (William Ashcroft, PESGB training, London - May 2015) Review published in July PESGB         magazine
-- Petroleum Basins of Sub Saharan Africa (Duncan Macgregor, PESGB training, London - September 2015) in conjunction with the     PESGB Africa Conference, which was also attended
+- Seismic Reflection Fundamentals - (William Ashcroft, PESGB training, London - May 2015) Review published in July PESGB magazine
+- Petroleum Basins of Sub Saharan Africa (Duncan Macgregor, PESGB training, London - September 2015) in conjunction with the PESGB Africa   Conference, which was also attended
 - Petroleum Geology of NorthWest Europe Conference (London - September 2015)
 - An Overview of the Petroleum Geology of Myanmar (AAPG & PESGB Short Course, London - November 2015)
 - Petroleum Exploration in Frontier Basins on the Atlantic Margin (PESGB Course, London - November 2015)
-- An Overview of the Greenland and Labrador Basins (AAPG & PESGB Short Course, London – January 2016)
+- An Overview of the Geology of Eastern Canada (AAPG & PESGB Short Course, London – January 2016)
 
 #### February 2013 to January 2015 - Bowleven Oil and Gas Plc
 
