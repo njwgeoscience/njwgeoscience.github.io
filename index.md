@@ -149,7 +149,7 @@ I enjoy keeping fit and eating healthily, as I believe this is reflected in the 
 
 - Full, clean current driving licence
 - Proficient in Microsoft Office applications and adapt quickly to work with new software
-- I am a member of the PESGB, EAGE and AAPG
+- I am a member of the PESGB, EAGE, AAPG & The Geological Society
 - I am a flexible person who is willing to travel and relocate
 
 *****
