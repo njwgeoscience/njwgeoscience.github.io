@@ -17,17 +17,19 @@ I hope you find my [CV](#cv), experience and motivations interesting and I look 
 
 ### Professional Experience
 
-#### January 2016 to Present -  Imperial College London
+#### December 2015 to Present - PetroVannin UK Ltd
+
+**Consultant Geoscientist**
+
+PetroVannin are a small independent consultancy, formed in 2002, offering geological and geophysical services to the oil & gas exploration industry. We provide skilled and experienced geoscientists to oil companies and service companies to assist in their exploration efforts and work programmes
+
+- April 2016-Present - On-going contract with Elephant Oil working up Block B, onshore Bénin (PETEX 2016 abstract accepted)
+
+#### January 2016 to May 2016 -  Imperial College London
 
 **Research Assistant**
 
-The Basins Research Group (BRG) at Imperial College London focuses on the geodynamic, structural, and stratigraphic evolution of sedimentary basins. My focus is on the Santos Basin investigating the geometry and growth of salt diapir-related normal faults and how shelf-edge clinoforms and MTC’s interact with salt related deformation
-
-#### December 2015 to Present - PetroVannin UK Ltd
-
-**Senior Exploration and Reservoir Consultant**
-
-PetroVannin are a small independent consultancy, formed in 2002, offering geological and geophysical services to the oil & gas exploration industry. We provide skilled and experienced geoscientists to oil companies and service companies to assist in their exploration efforts and work programmes
+The Basins Research Group (BRG) at Imperial College London focuses on the geodynamic, structural, and stratigraphic evolution of sedimentary basins. My focus was on the Santos Basin investigating the geometry and growth of salt diapir-related normal faults and how shelf-edge clinoforms and MTC’s interact with salt related deformation
 
 #### January 2015 to Present - Professional Technical Development
 
@@ -42,6 +44,8 @@ While searching for a new challenge, my key interest areas are being developed t
 - An Overview of the Petroleum Geology of Myanmar (AAPG & PESGB Short Course, London - November 2015)
 - Petroleum Exploration in Frontier Basins on the Atlantic Margin (PESGB Course, London - November 2015)
 - An Overview of the Geology of Eastern Canada (AAPG & PESGB Short Course, London - January 2016)
+- GeoTeric Online Training Series - Project Setup, Data Loading, Noise Cancellation & Spectral Enhancement. Frequency Decomposition,       Structural Interpretation & Geobody Interpretation workflows (March-April 2016) 
+- Global Mapper GIS Software  - Introductory training course (London - May 2016)
 
 #### February 2013 to January 2015 - Bowleven Oil and Gas Plc
 
