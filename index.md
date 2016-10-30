@@ -17,6 +17,13 @@ I hope you find my [CV](#cv), experience and motivations interesting and I look 
 
 ### Professional Experience
 
+
+#### October 2016 to Present - PetroWire, PLS Inc
+
+**Analyst-Editor**
+
+PetroWire is a news monitoring service, created in 1999 to provide the industry with a robust process for extracting and retrieving business-pertinent information on Oil & Gas activities from published news documents
+
 #### December 2015 to Present - PetroVannin UK Ltd
 
 **Consultant Geoscientist**
